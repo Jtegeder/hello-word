@@ -1,0 +1,14 @@
+h1 
+{ color:blue; }
+h2 {color: red; }
+h3 {color: red}
+h4 {color: red}
+h5 {color: red}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+ul {list-style: square;} 
